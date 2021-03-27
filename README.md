@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yanchev93
 - 👀 I’m interested in backend Development
 - 🌱 I’m currently learning C# development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C# or JS project, focused in the backend development.
 - 📫 How to reach me email: teo.yanchev93@gmail.com
 
 <!---
