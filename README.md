@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on C# or JS project, focused in the back-end development.
 - 📫 How to reach me: teo.yanchev93@gmail.com
 
-P.S.
+
 - Check out my youtube channel: https://bit.ly/3EtQWvZ 👀 
 <!---
 yanchev93/yanchev93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
