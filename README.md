@@ -2,7 +2,7 @@
 - 👀 I’m interested in back-end Development
 - 🌱 I’m currently learning C# web development
 - 💞️ I’m looking to collaborate on C# or JS project, focused in the back-end development.
-- 📫 How to reach me: teo.yanchev93@gmail.com
+- 📫 How to reach me: [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/teo-yanchev/) | teo.yanchev93@gmail.com
 
 
 - 🎞 Check out my other personal project - Video Editing @YouTube: https://bit.ly/3EtQWvZ 👀 
