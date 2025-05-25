@@ -23,7 +23,7 @@ Built custom MVC framework and full-featured web applications using ASP.NET Core
 ### 🔹 [Entity Framework Core](https://github.com/yanchev93/EntityFrameworkCore)  
 Applied both Code First and Database First approaches. Practiced data querying using LINQ, and implemented Repository and Unit of Work patterns.
 
-### 🔹 [C# Database Basics – MS SQL](https://github.com/yanchev93/CSharp-DB)  
+### 🔹 [C# Database Module – MS SQL](https://github.com/yanchev93/MSSQL)  
 Strengthened SQL skills, focusing on data modeling, ACID transactions, stored procedures, and performance tuning with MS SQL Server.
 
 ### 🔹 [freeCodeCamp Projects](https://github.com/yanchev93/freeCodeCamp)  
