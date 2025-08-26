@@ -31,10 +31,10 @@ Built a lightweight MVC framework and multiple web apps using ASP.NET Core.
 ### 📌 [Entity Framework Demos](https://github.com/yanchev93/EntityFrameworkCore)  
 Explored Code First and Database First workflows, advanced querying with LINQ, and applied design patterns like Repository and Unit of Work.
 
-### 📌 [SQL Server Practice](https://github.com/yanchev93/CSharp-DB)  
+### 📌 [MSSQL Server Practice](https://github.com/yanchev93/MSSQL)  
 Worked on relational database design, stored procedures, ACID transactions, and query optimization in Microsoft SQL Server.
 
-### 📌 [Frontend Projects – freeCodeCamp](https://github.com/yanchev93/freeCodeCamp)  
+### 📌 [Frontend Projects – freeCodeCamp](https://github.com/yanchev93/freeCodeCampCourses)  
 Completed certifications in Web Design, JavaScript Algorithms, and Front-End Libraries. Built projects using React, HTML, CSS, and vanilla JavaScript.
 
 ---
